@@ -11,7 +11,7 @@
 </a>
 
 <br /><br />
-A **DESKTOP & GAMEDEV DEVELOPMENT** ***Enthusiast*** 🚀.
+A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
 **About Me!**
