@@ -36,8 +36,7 @@ A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=EgmTrg&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="EgmTrg's GitHub Stats">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Egmtrg&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgmTrg&count_private=true&theme=radical" alt="EgmTrg" />
+
 
 ----
 Credit: [EgmTrg](https://github.com/EgmTrg)
