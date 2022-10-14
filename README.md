@@ -6,8 +6,8 @@
 <a href="https://www.instagram.com/egmtrg/">
   <img align="left" alt="EgmTrg's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
 <br /><br />
+[Resume Download](https://onedrive.live.com/?cid=cb10b6ccc245b809&id=CB10B6CCC245B809%2195170&ithint=file%2Cpdf&authkey=%21AKiP4NgVFr9VjBo)
 A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
