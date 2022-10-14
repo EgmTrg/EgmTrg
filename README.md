@@ -6,7 +6,6 @@
 <a href="https://www.instagram.com/egmtrg/">
   <img align="left" alt="EgmTrg's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-[CVDownload](https://onedrive.live.com/view.aspx?resid=CB10B6CCC245B809!94709&ithint=file%2cdocx&authkey=!AGCjdwBaJx6jVgw)
 
 <br /><br />
 A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
