@@ -7,7 +7,7 @@
   <img align="left" alt="EgmTrg's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br /><br />
-[Resume Download](https://onedrive.live.com/?cid=cb10b6ccc245b809&id=CB10B6CCC245B809%2195170&ithint=file%2Cpdf&authkey=%21AKiP4NgVFr9VjBo)
+
 A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
@@ -32,4 +32,4 @@ A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 Last Edited on: 14.10.2022 (dd.mm.yyyy)
-  [CV Updated]
+  [Resume Download](https://onedrive.live.com/?cid=cb10b6ccc245b809&id=CB10B6CCC245B809%2195170&ithint=file%2Cpdf&authkey=%21AKiP4NgVFr9VjBo)
