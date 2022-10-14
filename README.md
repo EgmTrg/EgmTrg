@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/egmtrg/">
   <img align="left" alt="EgmTrg's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+[CV Download](https://onedrive.live.com/view.aspx?resid=CB10B6CCC245B809!94709&ithint=file%2cdocx&authkey=!AGCjdwBaJx6jVgw)
 
 <br /><br />
 A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
@@ -31,7 +32,5 @@ A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-----
-Credit: [EgmTrg](https://github.com/EgmTrg)
-
-Last Edited on: 12.10.2021 (dd.mm.yyyy)
+Last Edited on: 14.10.2022 (dd.mm.yyyy)
+  [CV Updated]
