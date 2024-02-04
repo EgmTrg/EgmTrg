@@ -23,13 +23,11 @@ A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
-Last Edited on: 14.10.2022 (dd.mm.yyyy)
-  <br/>[Resume Download](https://onedrive.live.com/?cid=cb10b6ccc245b809&id=CB10B6CCC245B809%2195170&ithint=file%2Cpdf&authkey=%21AKiP4NgVFr9VjBo)
+Last Edited on: 04.02.2024 (dd.mm.yyyy)
+  <br/>[Resume Download](https://1drv.ms/b/s!Agm4RcLMthDLhfwDm_LaXDQqyI5qSg?e=qpMNA3)
