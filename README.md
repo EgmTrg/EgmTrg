@@ -32,4 +32,4 @@ A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
 Last Edited on: 04.02.2024 (dd.mm.yyyy)
   <br/>[Resume Download](https://1drv.ms/b/s!Agm4RcLMthDLhfwDm_LaXDQqyI5qSg?e=qpMNA3)
 
-![Active Student Card](https://github.com/EgmTrg/EgmTrg/assets/62505792/5126026d-41bb-40cf-a94d-62a4cd4190c7 | width=100)
+<img src="https://github.com/EgmTrg/EgmTrg/60c54c67-f138-4631-af13-7b91a39a37ee.jpg" width="48">
