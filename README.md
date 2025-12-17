@@ -1,33 +1,75 @@
-<h3 title="hehehe"> Hey 👋, I'm EgmTrg!</h3>
+<h2>Egemen Turoğlu | EgmTrg</h2>
+
+<p><strong>C# for everything.</strong><br/>
+Gerçek iş problemlerine odaklanan, sürdürülebilir ve okunabilir yazılım amaçlarım ve gerçekleştiririm.</p>
 
 <a href="https://www.linkedin.com/in/egemen-turoglu-622341207">
-  <img align="left" alt="EgmTrg's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/egmtrg/">
-  <img align="left" alt="EgmTrg's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
 </a>
-<br /><br />
 
-A **DESKTOP & GAME DEVELOPMENT** ***Enthusiast*** 🚀.
- 
+<br/><br/>
 
-**About Me!**
+---
 
-- 👨🏽‍💻 I am currently a student of Information Management Systems at Anadolu University.
-- 🌱 I'm currently doing C# projects. At the same time, I develop C++, which I laid the foundations of in the past.
-- 🤔 My field of interest is game development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [e.turoglu@hotmail.com](mailto:e.turoglu@hotmail.com).
+## 🧠 Hakkımda
 
+- Bilgi Yönetimi Sistemleri mezunu  
+- C# ve .NET ekosisteminde aktif geliştirici  
+- Operasyon, muhasebe ve süreç odaklı sistemler üzerine çalışıyorum  
+- Oyun geliştirme geçmişim var, ancak odağım artık **gerçek dünyada kullanılan yazılımlar**
 
+“Çalışıyor” olması yetmez.  
+Kodun **yarın da anlaşılır** olması gerekir.
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## 🧱 Uzmanlık Alanları
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+- **C# / .NET**
+  - Katmanlı mimari (N-Tier)
+  - ADO.NET
+  - Masaüstü uygulamalar
+- **Veri**
+  - SQL
+  - Raporlama ve iş verisi analizi
 
-Last Edited on: 04.02.2024 (dd.mm.yyyy)
-  <br/>[Resume Download](https://1drv.ms/b/s!Agm4RcLMthDLhfwDm_LaXDQqyI5qSg?e=qpMNA3)
+---
+
+## 🚀 Ana Proje
+
+**HarmonyBlend**  
+Çok şubeli işletmeler için sipariş, operasyon ve raporlama süreçlerini tek merkezde yöneten web tabanlı sistem.
+
+Amaç:
+- Dağınık iş akışlarını toparlamak  
+- Yetkilendirmeyi netleştirmek  
+- Yöneticinin durumu tek bakışta görmesini sağlamak  
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+<p>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+</p>
+
+---
+
+## 📫 İletişim
+
+- Mail: e.turoglu@hotmail.com  
+- LinkedIn: https://www.linkedin.com/in/egemen-turoglu-622341207  
+
+---
+
+## 📊 GitHub İstatistikleri
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgmTrg&layout=compact)
+
+<sub>Son güncelleme: 2025</sub>
