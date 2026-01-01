@@ -67,9 +67,4 @@ Amaç:
 - LinkedIn: https://www.linkedin.com/in/egemen-turoglu-622341207  
 
 ---
-
-## 📊 GitHub İstatistikleri
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgmTrg&layout=compact)
-
-<sub>Son güncelleme: 2025</sub>
+<sub>Son güncelleme: 2026</sub>
