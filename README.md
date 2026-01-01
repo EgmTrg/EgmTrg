@@ -1,7 +1,7 @@
 <h2>Egemen Turoğlu | EgmTrg</h2>
 
 <p><strong>C# for everything.</strong><br/>
-Gerçek iş problemlerine odaklanan, sürdürülebilir ve okunabilir yazılım amaçlarım ve gerçekleştiririm.</p>
+Hayali projelerle değil, gerçek iş problemleriyle uğraşırım; kodum okunur, ayakta kalır, işi de görür.</p>
 
 <a href="https://www.linkedin.com/in/egemen-turoglu-622341207">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
